@@ -7,8 +7,8 @@ A README file is a text file (commonly readme.txt) that contains information for
 - A file manifest (list of files included)
 - Copyright and licensing information
 - Contact information for the distributor or programmer
-- Known bugs[3]
-- Troubleshooting[3]
+- Known bugs
+- Troubleshooting
 - Credits and acknowledgments
 - A changelog (usually for programmers)
 - A news section (usually for users)
