@@ -12,3 +12,6 @@ A README file is a text file (commonly readme.txt) that contains information for
 - Credits and acknowledgments
 - A changelog (usually for programmers)
 - A news section (usually for users)
+# Binary search 
+Binary search is a search algorithm that finds the position of a target value within a sorted array.
+Binary search works on sorted arrays. Binary search begins by comparing an element in the middle of the array with the target value. If the target value matches the element, its position in the array is returned. If the target value is less than the element, the search continues in the lower half of the array. If the target value is greater than the element, the search continues in the upper half of the array. By doing this, the algorithm eliminates the half in which the target value cannot lie in each iteration.
